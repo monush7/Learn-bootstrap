@@ -1,0 +1,23 @@
+body{
+    background-color: #ddd;
+}
+.header{
+    /* background-color: rgb(47, 0, 255); */
+    height: 40px;
+}
+.content{
+    
+    min-height: 500px;
+}
+.main-content{
+    background-color: #fff;
+    height: 500px;
+    border:1px solid #eee;
+}
+.sidebar{
+    overflow-y: scroll;
+}
+.footer{
+    height: 40px;
+    /* background-color: green; */
+}   
